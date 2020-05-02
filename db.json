@@ -1,56 +1,76 @@
 {
-    "users":[
-        {
-                "id": "1",
-                "firstname": "zachary",
-                "lastname": "moseti",
-                "email": "zachy@gmail.com",
-                "age": "19",
-                "companyId": "1"
-        },
-        {
-                "id": "2",
-                "firstname": "rodgers",
-                "lastname": "makori",
-                "email": "makori@gmail.com",
-                "age": "20",
-                "companyId": "2"
-        },
-        {
-                "id": "3",
-                "firstname": "monica",
-                "lastname": "waweru",
-                "email": "monica@gmail.com",
-                "age": "20",
-                "companyId": "3"
-        },
-        {
-                "id": "4",
-                "firstname": "doroh",
-                "lastname": "kayago",
-                "email": "kayago@gmail.com",
-                "age": "21",
-                "companyId": "4"
-        }
-    ],
-    "companies":[
-            {
-                "id": 1,
-                "name": "Apple",
-                "location": "Eldoret",
-                "description": "Apple Inc. is an American multinational technology company headquartered in Cupertino, California, that designs, develops, and sells consumer electronics, computer software, and online services. It is considered one of the Big Four technology companies, alongside Amazon, Google, and Microsoft.[6][7][8]"
-            },
-            {
-                "id": 2,
-                "name": "Facebook",
-                "location": "Nairobi",
-                "description": "Facebook is an American online social media and social networking service based in Menlo Park, California and a flagship service of the namesake company Facebook, Inc. It was founded by Mark Zuckerberg, along with fellow Harvard College students and roommates Eduardo Saverin, Andrew McCollum, Dustin Moskovitz and Chris Hughes."
-            },
-            {
-                "id": 3,
-                "name": "Amazon",
-                "location": "Nakuru",
-                "description": "Amazon.com, Inc.[7] (/ˈæməzɒn/), is an American multinational conglomerate technology company based in Seattle, with 750,000 employees.[8] It focuses on e-commerce, cloud computing, digital streaming, and artificial intelligence. It is considered one of the Big Four tech companies, along with Google, Apple, and Microsoft.[9][10][11] It has been referred to as one of the most influential economic and cultural forces in the world."
-            }
-    ]
+  "users": [
+    {
+      "id": "1",
+      "firstname": "zachary",
+      "lastname": "moseti",
+      "email": "zachy@gmail.com",
+      "age": "19",
+      "companyId": "1"
+    },
+    {
+      "id": "2",
+      "firstname": "rodgers",
+      "lastname": "ndocha",
+      "email": "makori@gmail.com",
+      "age": "20",
+      "companyId": "2"
+    },
+    {
+      "id": "3",
+      "firstname": "monica",
+      "lastname": "waweru",
+      "email": "monica@gmail.com",
+      "age": "20",
+      "companyId": "3"
+    },
+    {
+      "id": "5",
+      "firstname": "jennie",
+      "lastname": "kibiri",
+      "age": "20",
+      "email": "dev@gmail.com",
+      "companyId": "4"
+    },
+    {
+      "id": "4",
+      "firstname": "jennie",
+      "lastname": "develoer",
+      "email": "dev@gmail.com",
+      "age": "20",
+      "companyId": "4"
+    }
+  ],
+  "companies": [
+    {
+      "id": 1,
+      "name": "Apple",
+      "location": "Eldoret",
+      "description": "Apple Inc. is an American multinational technology company headquartered in Cupertino, California, that designs, develops, and sells consumer electronics, computer software, and online services. It is considered one of the Big Four technology companies, alongside Amazon, Google, and Microsoft.[6][7][8]"
+    },
+    {
+      "id": 2,
+      "name": "Facebook",
+      "location": "Nairobi",
+      "description": "Facebook is an American online social media and social networking service based in Menlo Park, California and a flagship service of the namesake company Facebook, Inc. It was founded by Mark Zuckerberg, along with fellow Harvard College students and roommates Eduardo Saverin, Andrew McCollum, Dustin Moskovitz and Chris Hughes."
+    },
+    {
+      "id": 3,
+      "name": "Amazon",
+      "location": "Nakuru",
+      "description": "Amazon.com, Inc.[7] (/ˈæməzɒn/), is an American multinational conglomerate technology company based in Seattle, with 750,000 employees.[8] It focuses on e-commerce, cloud computing, digital streaming, and artificial intelligence. It is considered one of the Big Four tech companies, along with Google, Apple, and Microsoft.[9][10][11] It has been referred to as one of the most influential economic and cultural forces in the world."
+    },
+    {
+      "id": 4,
+      "name": "Google",
+      "location": "Kisii",
+      "description": "Google LLC is an American multinational technology company that specializes in Internet-related services and products, which include online advertising"
+    },
+    {
+      "name": "Safaricom",
+      "location": "Nairobi",
+      "description": "Safaricom is a leading communications company in Kenya with the widest and strongest coverage. The home of the famous Mobile Money service- M-PESA and",
+      "id": 5
+    }
+  ]
 }
