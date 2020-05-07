@@ -39,6 +39,14 @@
       "email": "dev@gmail.com",
       "age": "20",
       "companyId": "4"
+    },
+    {
+      "id": "6",
+      "firstname": "john",
+      "lastname": "bash",
+      "email": "bash@gmail.com",
+      "age": "27",
+      "companyId": "6"
     }
   ],
   "companies": [
@@ -71,6 +79,12 @@
       "location": "Nairobi",
       "description": "Safaricom is a leading communications company in Kenya with the widest and strongest coverage. The home of the famous Mobile Money service- M-PESA and",
       "id": 5
+    },
+    {
+      "id": 5,
+      "name": "Eldotec",
+      "location": "Eldoret",
+      "description": "Eldotec Consultancy Services Inc. specializes in supply chain communication and outreach to help bridge the gap between our clients and their customers"
     }
   ]
 }
