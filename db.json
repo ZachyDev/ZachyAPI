@@ -47,6 +47,14 @@
       "email": "bash@gmail.com",
       "age": "27",
       "companyId": "6"
+    },
+    {
+      "id": "7",
+      "firstname": "mary",
+      "lastname": "bash",
+      "email": "mary@gmail.com",
+      "age": "24",
+      "companyId": "7"
     }
   ],
   "companies": [
@@ -81,10 +89,16 @@
       "id": 5
     },
     {
-      "id": 5,
+      "id": 6,
       "name": "Eldotec",
       "location": "Eldoret",
       "description": "Eldotec Consultancy Services Inc. specializes in supply chain communication and outreach to help bridge the gap between our clients and their customers"
+    },
+    {
+      "id": 7,
+      "name": "iHub",
+      "location": "Nairobi",
+      "description": "iHub is an Innovation hub and hacker space for the technology community in Nairobi was started in March 2010 by Erik Hersman a blogger"
     }
   ]
 }
