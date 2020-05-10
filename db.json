@@ -55,6 +55,14 @@
       "email": "mary@gmail.com",
       "age": "24",
       "companyId": "7"
+    },
+    {
+      "id": "8",
+      "firstname": "irene",
+      "lastname": "nduku",
+      "email": "nduku@gmail.com",
+      "age": "24",
+      "companyId": "8"
     }
   ],
   "companies": [
@@ -99,6 +107,12 @@
       "name": "iHub",
       "location": "Nairobi",
       "description": "iHub is an Innovation hub and hacker space for the technology community in Nairobi was started in March 2010 by Erik Hersman a blogger"
+    },
+    {
+      "id": 8,
+      "name": "Tech star",
+      "location": "Nairobi",
+      "description": "Tech star is an Innovation hub and hacker space for the technology community in Nairobi was started in March 2010 by Erik Hersman a blogger"
     }
   ]
 }
