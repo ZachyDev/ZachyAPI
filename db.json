@@ -63,6 +63,14 @@
       "email": "nduku@gmail.com",
       "age": "24",
       "companyId": "8"
+    },
+    {
+      "id": "9",
+      "firstname": "jose",
+      "lastname": "maina",
+      "email": "jose@gmail.com",
+      "age": "24",
+      "companyId": "9"
     }
   ],
   "companies": [
@@ -113,6 +121,12 @@
       "name": "Tech star",
       "location": "Nairobi",
       "description": "Tech star is an Innovation hub and hacker space for the technology community in Nairobi was started in March 2010 by Erik Hersman a blogger"
+    },
+    {
+      "id": 9,
+      "name": "TechKnow",
+      "location": "Eldoret",
+      "description": "TechKnow is an Innovation hub and hacker space for the technology community in Nairobi was started in March 2010 by Erik Hersman a blogger"
     }
   ]
 }
