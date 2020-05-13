@@ -1,12 +1,12 @@
 {
   "users": [
     {
-      "id": "1",
+      "id": 1,
       "firstname": "zachary",
       "lastname": "moseti",
       "email": "zachy@gmail.com",
       "age": "19",
-      "companyId": "1"
+      "companyId": 1
     },
     {
       "id": "2",
@@ -14,63 +14,63 @@
       "lastname": "ndocha",
       "email": "makori@gmail.com",
       "age": "20",
-      "companyId": "2"
+      "companyId": 2
     },
     {
-      "id": "3",
+      "id": 3,
       "firstname": "monica",
       "lastname": "waweru",
       "email": "monica@gmail.com",
       "age": "20",
-      "companyId": "3"
+      "companyId": 3
     },
     {
-      "id": "5",
+      "id": 5,
       "firstname": "jennie",
       "lastname": "kibiri",
       "age": "20",
       "email": "dev@gmail.com",
-      "companyId": "4"
+      "companyId": 4
     },
     {
-      "id": "4",
+      "id": 4,
       "firstname": "jennie",
       "lastname": "develoer",
       "email": "dev@gmail.com",
       "age": "20",
-      "companyId": "4"
+      "companyId": 4
     },
     {
-      "id": "6",
+      "id": 6,
       "firstname": "john",
       "lastname": "bash",
       "email": "bash@gmail.com",
       "age": "27",
-      "companyId": "6"
+      "companyId": 6
     },
     {
-      "id": "7",
+      "id": 7,
       "firstname": "mary",
       "lastname": "bash",
       "email": "mary@gmail.com",
       "age": "24",
-      "companyId": "7"
+      "companyId": 7
     },
     {
-      "id": "8",
+      "id": 8,
       "firstname": "irene",
       "lastname": "nduku",
       "email": "nduku@gmail.com",
       "age": "24",
-      "companyId": "8"
+      "companyId": 8
     },
     {
-      "id": "9",
+      "id": 9,
       "firstname": "jose",
       "lastname": "maina",
       "email": "jose@gmail.com",
       "age": "24",
-      "companyId": "9"
+      "companyId": 9
     }
   ],
   "companies": [
@@ -128,5 +128,25 @@
       "location": "Eldoret",
       "description": "TechKnow is an Innovation hub and hacker space for the technology community in Nairobi was started in March 2010 by Erik Hersman a blogger"
     }
-  ]
+  ],
+"posts": [
+  {
+    "postId": 1,
+    "name": "coding is fun",
+    "email": "Eliseo@gardner.biz",
+    "body": "I love coding because this is what trains the human brain to think creatively and provide best soutions."
+    },
+    {
+    "postId": 2,
+    "name": "Tech journey",
+    "email": "Jayne_Kuhic@sydney.com",
+    "body": "Myu tech journey has not been that easy,I have tried various technologies to see where i can fit.But now i am a skilled web developer."
+    },
+    {
+    "postId": 1,
+    "name": "Nothing is impossibble",
+    "email": "Nikita@garfield.biz",
+    "body": "Nothing is impossible,you just have to set yourself to achieve the very best of you."
+    }
+]
 }
