@@ -71,6 +71,14 @@
       "email": "jose@gmail.com",
       "age": "24",
       "companyId": 9
+    },
+     {
+      "id": 10,
+      "firstname": "paul",
+      "lastname": "maina",
+      "email": "maina@gmail.com",
+      "age": "20",
+      "companyId": 3
     }
   ],
   "companies": [
@@ -127,6 +135,12 @@
       "name": "TechKnow",
       "location": "Eldoret",
       "description": "TechKnow is an Innovation hub and hacker space for the technology community in Nairobi was started in March 2010 by Erik Hersman a blogger"
+    },
+      {
+      "id": 10,
+      "name": "TechCrunch",
+      "location": "Kisumu",
+      "description": "TechCrunch is an Innovation hub and hacker space for the technology community in Kisumu was started in March 2010 by Erik Hersman a blogger"
     }
   ],
 "posts": [
@@ -143,10 +157,16 @@
     "body": "Myu tech journey has not been that easy,I have tried various technologies to see where i can fit.But now i am a skilled web developer."
     },
     {
-    "postId": 1,
+    "postId": 3,
     "name": "Nothing is impossibble",
     "email": "Nikita@garfield.biz",
     "body": "Nothing is impossible,you just have to set yourself to achieve the very best of you."
-    }
+    },
+    {
+      "postId": 4,
+      "name": "Google Developer Expert",
+      "email": "zachy@gmail.com",
+      "body": "I am a Google Developer Expert in web technologies."
+      }
 ]
 }
