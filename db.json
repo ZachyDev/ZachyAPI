@@ -78,7 +78,15 @@
       "lastname": "maina",
       "email": "maina@gmail.com",
       "age": "20",
-      "companyId": 3
+      "companyId": 10
+    },
+    {
+      "id": 11,
+      "firstname": "john",
+      "lastname": "kamau",
+      "email": "kamau@gmail.com",
+      "age": "20",
+      "companyId": 11
     }
   ],
   "companies": [
@@ -141,6 +149,12 @@
       "name": "TechCrunch",
       "location": "Kisumu",
       "description": "TechCrunch is an Innovation hub and hacker space for the technology community in Kisumu was started in March 2010 by Erik Hersman a blogger"
+    },
+    {
+      "id": 11,
+      "name": "MLH",
+      "location": "Eldoret",
+      "description": "Major League Hacking, officially abbreviated as MLH, is a company that operates a league for student hackathons"
     }
   ],
 "posts": [
@@ -167,6 +181,12 @@
       "name": "Google Developer Expert",
       "email": "zachy@gmail.com",
       "body": "I am a Google Developer Expert in web technologies."
-      }
+      },
+      {
+        "postId": 5,
+        "name": "Geek Talk Thursday",
+        "email": "doro@gmail.com",
+        "body": "I am a lead GTT."
+        }
 ]
 }
