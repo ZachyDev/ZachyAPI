@@ -95,6 +95,14 @@
       "email": "wilson@gmail.com",
       "age": "20",
       "companyId": 12
+    },
+    {
+      "id": 13,
+      "firstname": "finna",
+      "lastname": "mobisa",
+      "email": "finna@gmail.com",
+      "age": "21",
+      "companyId": 13
     }
   ],
   "companies": [
@@ -163,6 +171,12 @@
       "name": "MLH",
       "location": "Eldoret",
       "description": "Major League Hacking, officially abbreviated as MLH, is a company that operates a league for student hackathons"
+    },
+    {
+      "id": 12,
+      "name": "CodeXtra",
+      "location": "Eldoret",
+      "description": "CodeXtra is a company that operates a league for student hackathons"
     }
   ],
 "posts": [
@@ -184,17 +198,23 @@
     "email": "Nikita@garfield.biz",
     "body": "Nothing is impossible,you just have to set yourself to achieve the very best of you."
     },
+   {
+    "postId": 4,
+    "name": "Google Developer Expert",
+    "email": "zachy@gmail.com",
+    "body": "I am a Google Developer Expert in web technologies."
+    },
     {
-      "postId": 4,
-      "name": "Google Developer Expert",
-      "email": "zachy@gmail.com",
-      "body": "I am a Google Developer Expert in web technologies."
-      },
-      {
-        "postId": 5,
-        "name": "Geek Talk Thursday",
-        "email": "doro@gmail.com",
-        "body": "I am a lead GTT."
-        }
+    "postId": 5,
+    "name": "Geek Talk Thursday",
+    "email": "doro@gmail.com",
+    "body": "I am a lead GTT."
+    },
+    {
+      "postId": 6,
+      "name": "Know ypur circle",
+      "email": "fatma@gmail.com",
+      "body": "Know your circle is a program by Developer Circles where you get to know experienced developers within your circe."
+      }
 ]
 }
