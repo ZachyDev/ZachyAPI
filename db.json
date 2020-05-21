@@ -103,6 +103,14 @@
       "email": "finna@gmail.com",
       "age": "21",
       "companyId": 13
+    },
+    {
+      "id": 15,
+      "firstname": "betty",
+      "lastname": "kayago",
+      "email": "betty@gmail.com",
+      "age": "21",
+      "companyId": 15
     }
   ],
   "companies": [
