@@ -111,6 +111,11 @@
       "email": "betty@gmail.com",
       "age": "21",
       "companyId": 15
+      "id": 14,
+      "firstname": "eva",
+      "lastname": "waweru",
+      "email": "eva@gmail.com",
+      "age": "21",
     }
   ],
   "companies": [
