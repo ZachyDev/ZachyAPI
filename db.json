@@ -111,6 +111,14 @@
       "email": "betty@gmail.com",
       "age": "21",
       "companyId": 15 
+    },
+    {
+      "id": 16,
+      "firstname": "letty",
+      "lastname": "dev",
+      "email": "letty@gmail.com",
+      "age": "21",
+      "companyId": 16
     }
   ],
   "companies": [
@@ -185,6 +193,12 @@
       "name": "CodeXtra",
       "location": "Eldoret",
       "description": "CodeXtra is a company that operates a league for student hackathons"
+    },
+    {
+      "id": 13,
+      "name": "CodeLn",
+      "location": "Nairobi",
+      "description": "CodeLn is a company that deals with software development"
     }
   ],
 "posts": [
@@ -223,6 +237,12 @@
       "name": "Know ypur circle",
       "email": "fatma@gmail.com",
       "body": "Know your circle is a program by Developer Circles where you get to know experienced developers within your circe."
-      }
+      },
+      {
+        "postId": 7,
+        "name": "I am recommendable",
+        "email": "dougy@gmail.com",
+        "body": "I am recommendable is  a program to empower the youth."
+        }
 ]
 }
