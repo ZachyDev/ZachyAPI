@@ -127,6 +127,14 @@
       "email": "john@gmail.com",
       "age": "22",
       "companyId": 17
+    },
+    {
+      "id": 18,
+      "firstname": "velda",
+      "lastname": "dev",
+      "email": "velda@gmail.com",
+      "age": "21",
+      "companyId": 18
     }
   ],
   "companies": [
@@ -207,6 +215,12 @@
       "name": "CodeLn",
       "location": "Nairobi",
       "description": "CodeLn is a company that deals with software development"
+    },
+    {
+      "id": 14,
+      "name": "Neverest",
+      "location": "Nairobi",
+      "description": "Neverest is a company that deals with software development"
     }
   ],
 "posts": [
@@ -246,11 +260,11 @@
       "email": "fatma@gmail.com",
       "body": "Know your circle is a program by Developer Circles where you get to know experienced developers within your circe."
       },
-      {
-        "postId": 7,
-        "name": "I am recommendable",
-        "email": "dougy@gmail.com",
-        "body": "I am recommendable is  a program to empower the youth."
-        }
+    {
+      "postId": 8,
+      "name": "S/W development cycle",
+      "email": "velda@gmail.com",
+      "body": "I will take you through the various phases in s/w dev."
+      }
 ]
 }
