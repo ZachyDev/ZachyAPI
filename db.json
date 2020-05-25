@@ -135,6 +135,14 @@
       "email": "velda@gmail.com",
       "age": "21",
       "companyId": 18
+    },
+    {
+      "id": 19,
+      "firstname": "Dev",
+      "lastname": "Angel",
+      "email": "angel@gmail.com",
+      "age": "21",
+      "companyId": 19
     }
   ],
   "companies": [
@@ -221,6 +229,12 @@
       "name": "Neverest",
       "location": "Nairobi",
       "description": "Neverest is a company that deals with software development"
+    },
+    {
+      "id": 15,
+      "name": "SheCodesAfrica",
+      "location": "Nairobi",
+      "description": "SheCodes is a Coding Workshop for Women. Access a new career in Technology. SheCodes teaches coding skills to busy women"
     }
   ],
 "posts": [
@@ -265,6 +279,12 @@
       "name": "S/W development cycle",
       "email": "velda@gmail.com",
       "body": "I will take you through the various phases in s/w dev."
-      }
+    },
+    {
+      "postId": 9,
+      "name": "Women in Tech",
+      "email": "angel@gmail.com",
+      "body": "Lets celebrate women in tech"
+    }
 ]
 }
