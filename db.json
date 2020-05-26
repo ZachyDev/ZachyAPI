@@ -143,6 +143,14 @@
       "email": "angel@gmail.com",
       "age": "21",
       "companyId": 19
+    },
+    {
+      "id": 20,
+      "firstname": "Dev",
+      "lastname": "Anita",
+      "email": "anita@gmail.com",
+      "age": "20",
+      "companyId": 19
     }
   ],
   "companies": [
@@ -232,6 +240,12 @@
     },
     {
       "id": 15,
+      "name": "open code",
+      "location": "Nairobi",
+      "description": "Open code is a software company that connects software developers across Africa."
+    },
+    {
+      "id": 16,
       "name": "SheCodesAfrica",
       "location": "Nairobi",
       "description": "SheCodes is a Coding Workshop for Women. Access a new career in Technology. SheCodes teaches coding skills to busy women"
@@ -285,6 +299,12 @@
       "name": "Women in Tech",
       "email": "angel@gmail.com",
       "body": "Lets celebrate women in tech"
+    },
+    {
+      "postId": 10,
+      "name": "Future of tech",
+      "email": "anita@gmail.com",
+      "body": "Future of tech is a discussion on how tchnology will revolutionaliza things"
     }
 ]
 }
