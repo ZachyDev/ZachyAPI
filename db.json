@@ -311,12 +311,6 @@
     "body": "I am a lead GTT."
     },
     {
-      "postId": 7,
-      "name": "ALC",
-      "email": "zachy@gmail.com",
-      "body": "I am a Developer Andela."
-      },
-    {
       "postId": 6,
       "name": "Know ypur circle",
       "email": "fatma@gmail.com",
@@ -345,12 +339,6 @@
       "name": "Google Codelabs",
       "email": "reagan@gmail.com",
       "body": "Google Codelabs is a program by Google to teach people how to code"
-    },
-    {
-      "postId": 12,
-      "name": "Andela Training",
-      "email": "alc@gmail.com",
-      "body": "Andela is a community of developers across Africa"
     }
 ]
 }
