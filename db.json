@@ -159,6 +159,14 @@
       "email": "reagan@gmail.com",
       "age": "22",
       "companyId": 20
+    },
+    {
+      "id": 2,
+      "firstname": "Chelsea",
+      "lastname": "Mirah",
+      "email": "chelsea@gmail.com",
+      "age": "21",
+      "companyId": 21
     }
   ],
   "companies": [
@@ -263,6 +271,12 @@
       "name": "Developer Circles",
       "location": "Eldoret",
       "description": "Developer circles is a Coding Workshop for Women. Access a new career in Technology. SheCodes teaches coding skills to busy women"
+    },
+    {
+      "id": 19,
+      "name": "Andela",
+      "location": "Nairobi",
+      "description": "Andela is an American company that identifies and develops software developers. The company launched operations in Nigeria in 2014, to help global"
     }
   ],
 "posts": [
@@ -297,6 +311,12 @@
     "body": "I am a lead GTT."
     },
     {
+      "postId": 7,
+      "name": "ALC",
+      "email": "zachy@gmail.com",
+      "body": "I am a Developer Andela."
+      },
+    {
       "postId": 6,
       "name": "Know ypur circle",
       "email": "fatma@gmail.com",
@@ -325,6 +345,12 @@
       "name": "Google Codelabs",
       "email": "reagan@gmail.com",
       "body": "Google Codelabs is a program by Google to teach people how to code"
+    },
+    {
+      "postId": 12,
+      "name": "Andela Training",
+      "email": "alc@gmail.com",
+      "body": "Andela is a community of developers across Africa"
     }
 ]
 }
