@@ -160,6 +160,14 @@
       "age": "22",
       "companyId": 20
     },
+    {
+      "id": 2,
+      "firstname": "Chelsea",
+      "lastname": "Mirah",
+      "email": "chelsea@gmail.com",
+      "age": "21",
+      "companyId": 21
+    }
   ],
   "companies": [
     {
@@ -264,6 +272,12 @@
       "location": "Eldoret",
       "description": "Developer circles is a Coding Workshop for Women. Access a new career in Technology. SheCodes teaches coding skills to busy women"
     },
+    {
+      "id": 19,
+      "name": "Andela",
+      "location": "Nairobi",
+      "description": "Andela is an American company that identifies and develops software developers. The company launched operations in Nigeria in 2014, to help global"
+    }
   ],
 "posts": [
   {
