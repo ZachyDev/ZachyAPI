@@ -49,14 +49,6 @@
       "companyId": 6
     },
     {
-      "id": 7,
-      "firstname": "mary",
-      "lastname": "bash",
-      "email": "mary@gmail.com",
-      "age": "24",
-      "companyId": 7
-    },
-    {
       "id": 8,
       "firstname": "irene",
       "lastname": "nduku",
@@ -177,12 +169,6 @@
       "description": "Apple Inc. is an American multinational technology company headquartered in Cupertino, California, that designs, develops, and sells consumer electronics, computer software, and online services. It is considered one of the Big Four technology companies, alongside Amazon, Google, and Microsoft.[6][7][8]"
     },
     {
-      "id": 2,
-      "name": "Facebook",
-      "location": "Nairobi",
-      "description": "Facebook is an American online social media and social networking service based in Menlo Park, California and a flagship service of the namesake company Facebook, Inc. It was founded by Mark Zuckerberg, along with fellow Harvard College students and roommates Eduardo Saverin, Andrew McCollum, Dustin Moskovitz and Chris Hughes."
-    },
-    {
       "id": 3,
       "name": "Amazon",
       "location": "Nakuru",
@@ -211,12 +197,6 @@
       "name": "iHub",
       "location": "Nairobi",
       "description": "iHub is an Innovation hub and hacker space for the technology community in Nairobi was started in March 2010 by Erik Hersman a blogger"
-    },
-    {
-      "id": 8,
-      "name": "Tech star",
-      "location": "Nairobi",
-      "description": "Tech star is an Innovation hub and hacker space for the technology community in Nairobi was started in March 2010 by Erik Hersman a blogger"
     },
     {
       "id": 9,
